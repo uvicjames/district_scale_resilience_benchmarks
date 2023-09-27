@@ -1,9 +1,12 @@
  
-This model contains an electricity network and a water distribution network. The block/lot geometry was obtained from OpenStreetMaps.
+This model contains an electricity network and a water distribution network. An overview is shown below:
+
 
 <p align="center">
-<img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/181ded1c-d4f6-4886-bad6-ef44638a9809" width="400">
+<img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/cb8de678-0a15-42fc-88e4-e4ca408ee5d1" width="600">
 </p>
+
+The block/lot geometry was obtained from OpenStreetMaps.
 
 The following files are present:
 - blocks.xml: block and lot geometry, stored in an XML file.
