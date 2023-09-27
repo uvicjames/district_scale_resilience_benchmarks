@@ -4,8 +4,10 @@ The first model contains an electricity network and a water distribution network
 
 
 <p align="center">
-<img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/cb8de678-0a15-42fc-88e4-e4ca408ee5d1" width="600">
+<img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/d2063406-35b7-4915-b0d9-5cd2e26eeb12" width="700">
 </p>
+
+
 
 # Model Elements
 
