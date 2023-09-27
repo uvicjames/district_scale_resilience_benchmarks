@@ -1,16 +1,17 @@
- 
-This model contains an electricity network and a water distribution network. An overview is shown below:
+# District-scale Resilience Benchmarks: Model 1
+
+The first model contains an electricity network and a water distribution network. The terrain and street layout were obtained from OpenStreetMaps by way of ESRI CityEngine. An overview of the main networks is shown below:
 
 
 <p align="center">
 <img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/cb8de678-0a15-42fc-88e4-e4ca408ee5d1" width="600">
 </p>
 
-The block/lot geometry was obtained from OpenStreetMaps.
+# Model Elements
 
 The following files are present:
-- blocks.xml: block and lot geometry, stored in an XML file.
-- streets.graphml: street network, stored in a GraphML file.
-- water.graphml: water distribution network, stored in a GraphML file.
-- electricity.graphml: electricity network, stored in a GraphML file.
-- terrain.tif: a geotiff file giving the terrain representation. These can be viewed with QGIS.
+- _blocks.xml_: block and lot geometry, stored in an XML file.
+- _streets.graphml_: street network, stored in a GraphML file.
+- _water.graphml_: water distribution network, stored in a GraphML file.
+- _electricity.graphml_: electricity network, stored in a GraphML file.
+- _terrain.tif_: a geotiff file giving the terrain representation. This type of file can be viewed with [QGIS](https://www.qgis.org/en/site/).
