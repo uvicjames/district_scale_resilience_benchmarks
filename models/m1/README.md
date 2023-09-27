@@ -8,11 +8,11 @@ The first model contains an electricity network and a water distribution network
 </p>
 
 
-# Model Elements
+# Model Files
 
 The following files are present:
-- _blocks.xml_: block and lot geometry, stored in an XML file.
-- _streets.graphml_: street network, stored in a GraphML file.
-- _water.graphml_: water distribution network, stored in a GraphML file.
-- _electricity.graphml_: electricity network, stored in a GraphML file.
-- _terrain.tif_: a geotiff file giving the terrain representation. This type of file can be viewed with [QGIS](https://www.qgis.org/en/site/).
+- _blocks.xml_: an XML file that contains block and lot geometry.
+- _streets.graphml_: a GraphML file that stores the street network.
+- _water.graphml_:  a GraphML file that stores a water distribution network.
+- _electricity.graphml_: a GraphML file that stores a low-voltage ("LV") electricity network.
+- _terrain.tif_: a geotiff file that represents the terrain (WGS 84 / UTM zone 17N). This type of file can be viewed with [QGIS](https://www.qgis.org/en/site/).
