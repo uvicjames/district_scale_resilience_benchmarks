@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interlinks>
+	<interlink src_id="113" src_network="water" dest_id="89" dest_network="electricity" function_type="constant" function_val="0" backup="0" />
+	<interlink src_id="107" src_network="water" dest_id="91" dest_network="electricity" function_type="percent" function_val="0" backup="0" />
+	<interlink src_id="109" src_network="water" dest_id="94" dest_network="electricity" function_type="percent" function_val="0" backup="0" />
+	<interlink src_id="111" src_network="water" dest_id="97" dest_network="electricity" function_type="constant" function_val="0" backup="0" />
+	<interlink src_id="34" src_network="water" dest_id="100" dest_network="electricity" function_type="percent" function_val="0" backup="0" />
+	<interlink src_id="31" src_network="water" dest_id="102" dest_network="electricity" function_type="percent" function_val="0" backup="0" />
+</interlinks>
