@@ -4,7 +4,7 @@ The first model contains an electricity network and a water distribution network
 
 
 <p align="center">
-<img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/72984ec1-7b85-4d59-9198-42c457ddaaf1" width="700">
+<img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/dfef8183-5a80-4c8f-a879-7b120f778d9b" width="700">
 </p>
 
 
