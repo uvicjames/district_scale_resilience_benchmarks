@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interlinks>
+	<interlink src_id="87" src_network="water" dest_id="384" dest_network="electricity" function_type="constant" function_val="0" backup="0" />
+	<interlink src_id="85" src_network="water" dest_id="385" dest_network="electricity" function_type="constant" function_val="0" backup="0" />
+	<interlink src_id="102" src_network="water" dest_id="387" dest_network="electricity" function_type="constant" function_val="0" backup="0" />
+	<interlink src_id="365" src_network="water" dest_id="395" dest_network="electricity" function_type="percent" function_val="0" backup="0" />
+</interlinks>
