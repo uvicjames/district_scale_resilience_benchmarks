@@ -16,6 +16,7 @@ The following files are present:
 - _streets.graphml_: a GraphML file that stores the street network.
 - _water.graphml_:  a GraphML file that stores a water distribution network.
 - _electricity.graphml_: a GraphML file that stores a low-voltage ("LV") electricity network.
-- _terrain.tif_: a geotiff file that represents the terrain (WGS 84 / UTM zone 17N). 
+- _terrain.tif_: a geotiff file that represents the terrain (WGS 84 / UTM zone 17N).
+- _interconnects.xml_: an XML file that defines physical dependencies between nodes in the water and electricity networks.
 
 Most of the files contain geometrical primitives that have been centered around the origin (0, 0, 0). The exception is the terrain file, which remains in the original coordinates downloaded from OpenStreetMaps. This type of file can be viewed with [QGIS](https://www.qgis.org/en/site/).
