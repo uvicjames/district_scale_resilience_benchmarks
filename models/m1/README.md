@@ -1,6 +1,6 @@
 # District-scale Resilience Benchmarks: Model 1
 
-The first model contains an electricity network and a water distribution network. The terrain and street layout were obtained from OpenStreetMaps by way of ESRI CityEngine. An overview of the main networks is shown below:
+The first model contains an electricity network and a water distribution network created from a street network located in Jamestown, New York. The terrain and street layout were obtained from OpenStreetMaps by way of ESRI CityEngine. An overview of the main networks is shown below:
 
 
 <p align="center">
