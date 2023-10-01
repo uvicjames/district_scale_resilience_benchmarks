@@ -21,4 +21,4 @@ The following files are currently included:
 | _water.graphml_|  a GraphML file that stores a water distribution network.|
 |_vertices.xml_| an XML file that stores the original street network, as exported from CityEngine.|
 
-Most of the files contain geometrical primitives that have been centered around the origin (0, 0, 0). The exception is the terrain file, which remains in the original coordinates downloaded from OpenStreetMaps. This type of file can be viewed with [QGIS](https://www.qgis.org/en/site/).
+All geometry is centered around the origin (0, 0, 0). Users should not expect it to match empirical data in terms of scale or coordinates. 
