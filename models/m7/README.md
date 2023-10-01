@@ -15,6 +15,7 @@ The following files are currently included:
 | ------------- | ------------- |
 | _blocks.xml_  | an XML file that contains block and lot geometry  |
 |_buildings.obj_| an OBJ file that stores building geometry, as exported by CityEngine.|
+|_building_shapes.obj_| an OBJ file that stores building footprint geometry, as exported by CityEngine.|
 | _streets.graphml_| a GraphML file that stores the street network.|
 | _streets.obj_| an OBJ file that stores the street geometry, as exported by CityEngine.|
 |_terrain.tif_|	a geotiff file that represents the terrain.|
