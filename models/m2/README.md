@@ -1,6 +1,10 @@
 # District-scale Resilience Benchmarks: Model 2
 
-The first model contains an electricity network and a water distribution network that are defined upon a small, artificial block/lot/street layout. There is no terrain file, and all vertices are on the z=0 plane.
+This model contains an electricity network and a water distribution network that are defined upon a small, artificial block/lot/street layout. There is no terrain file, and all vertices are on the z=0 plane.
+
+<p align="center">
+<img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/bdb225fb-23a9-4241-8631-95d6d7062acd" width="400">
+</p>
 
 
 # Model Files
