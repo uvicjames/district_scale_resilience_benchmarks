@@ -1,6 +1,6 @@
-# District-scale Resilience Benchmarks: Model 8
+# District-scale Resilience Benchmarks: Model 9
 
-This model contains a water distribution network that is defined upon a small, artificial block/lot/street layout. There is no terrain file, and all vertices are on the z=0 plane.
+This model contains a water distribution network for the Mirvish village district in Toronto, Ontario, Canada. There is no terrain file, and all vertices are on the z=0 plane.
 
 <p align="center">
 <img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/333ebaff-dc61-41b9-86d3-ef9af875b3aa" width="600">
