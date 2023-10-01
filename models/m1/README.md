@@ -7,7 +7,7 @@ The first model contains an electricity network and a water distribution network
 <img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/dfef8183-5a80-4c8f-a879-7b120f778d9b" width="700">
 </p>
 
-
+Please note that there are issues with the z-axis (i.e., height). The infrastructure networks are not snapping to the terrain file at present.
 
 # Model Files
 
