@@ -10,7 +10,9 @@ The following files are currently included:
 | File  | Description |
 | ------------- | ------------- |
 | _blocks.xml_  | an XML file that contains block and lot geometry  |
+|_buildings.obj_| an OBJ file that stores building geometry, as exported by CityEngine.|
 | _streets.graphml_| a GraphML file that stores the street network.|
+| _streets.obj_| an OBJ file that stores the street geometry, as exported by CityEngine.|
 | _water.graphml_|  a GraphML file that stores a water distribution network.|
 | _electricity.graphml_| a GraphML file that stores a low-voltage ("LV") electricity network.|
 | _interconnects.xml_| an XML file that defines physical dependencies between nodes in the water and electricity networks.|
