@@ -8,8 +8,8 @@ This repository contains a set of models of infrastructure systems at district s
 |M3 | A small synthetic model. |
 |M4|  A small synthetic model.|
 |M5|  A small synthetic model.|
-|M6| | A small synthetic model.|
-|M7| | A model of Silver Firs, a subdivision in Snohomish County, Washington.|
-|M8| | A small synthetic network.|
-|M9| | A model of Mirvish Village in Toronto, Canada.|
+|M6|  A small synthetic model.|
+|M7|  A model of Silver Firs, a subdivision in Snohomish County, Washington.|
+|M8|  A small synthetic network.|
+|M9|  A model of Mirvish Village in Toronto, Canada.|
 |M10| A model of the village of Frewsburg, New York. |
