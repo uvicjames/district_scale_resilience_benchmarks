@@ -16,5 +16,7 @@ The following files are currently included:
 | _streets.obj_| an OBJ file that stores the street geometry, as exported by CityEngine.|
 | _water.graphml_|  a GraphML file that stores a water distribution network.|
 | _interconnects.xml_| an XML file that defines physical dependencies between nodes in the water and electricity networks.|
+| _terrain.tif_| a geotiff file that represents the terrain.|
+| _terrain.obj_| an OBJ file that contains geometry for the terrain.|
 
 All geometry is centered around the origin (0, 0, 0). Users should not expect it to match empirical data in terms of scale or coordinates. 
