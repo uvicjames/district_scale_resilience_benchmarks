@@ -3,7 +3,7 @@
 This model contains a water distribution network that is defined upon a small, artificial block/lot/street layout. There is no terrain file, and all vertices are on the z=0 plane.
 
 <p align="center">
-<img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/bdb225fb-23a9-4241-8631-95d6d7062acd" width="400">
+<img src="https://github.com/uvicjames/district_scale_resilience_benchmarks/assets/6242976/e99f32ad-3685-4d92-8219-8d706909e17f" width="600">
 </p>
 
 Electricity and ICT networks will be added at a later date.
