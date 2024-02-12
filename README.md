@@ -1,4 +1,7 @@
 # District-scale Resilience Benchmark Dataset
+
+[Note: This is work in progress, to be completed sometime in 2024.]
+
 This repository contains a set of models of infrastructure systems at district scale. These models are intended for use in resilience research.
 
 | Model  | Description |
